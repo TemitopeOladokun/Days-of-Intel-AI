@@ -15,3 +15,7 @@ Lesson 1: Introduction to the Course works
 1. Lesson 2.2 - Leveraging Pre-trained model
 2. Open VINO (Visual Inferencing and Neural Network Optimization) Toolkit
 3. Types of computer vision model: Classification, Segmentation, Detection
+
+
+### WHAT I LEARNT 
+* ResNet helps to avoid vanishing gradient problem
