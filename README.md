@@ -19,3 +19,9 @@ Lesson 1: Introduction to the Course works
 
 ### WHAT I LEARNT 
 * ResNet helps to avoid vanishing gradient problem
+* SSD is known for performing classification off of multiple feature maps from throughout the neural network, using default bounding box sizes.
+*  ResNet helped open the door for substantially deeper neural networks than were possible before. “Skip” layers helped neural networks avoid the vanishing gradient problem that otherwise occurs in deep networks.
+* Full list of pre-trained models available in the Intel® Distribution of OpenVINO™  [https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models]
+
+
+
