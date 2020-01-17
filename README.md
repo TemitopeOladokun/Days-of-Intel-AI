@@ -24,4 +24,6 @@ Lesson 1: Introduction to the Course works
 * Full list of pre-trained models available in the Intel® Distribution of OpenVINO™  [https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models]
 
 
+## DAY 4: 16/01/2020
+Took the pledge 
 
