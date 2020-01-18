@@ -28,5 +28,9 @@ Lesson 1: Introduction to the Course works
 Took the pledge 
 
 
-## DAY 5:18/01/2020
+## DAY 5: 17/01/2020
 Started Lesson 2.1-2.4 
+
+
+## DAY 5: 18/01/2020
+Attended #women_who_code  and #sg_spaic meet-up 
