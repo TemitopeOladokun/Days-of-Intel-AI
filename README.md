@@ -32,5 +32,9 @@ Took the pledge
 Started Lesson 2.1-2.4 
 
 
-## DAY 5: 18/01/2020
+## DAY 6: 18/01/2020
 Attended #women_who_code  and #sg_spaic meet-up 
+
+## DAY 7: 19/01/2020
+1. Continued my research about edge, deployment and raspberrypi 
+2. Attended #sg_speech_vino first meet-up
