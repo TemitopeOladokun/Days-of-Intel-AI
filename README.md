@@ -38,3 +38,6 @@ Attended #women_who_code  and #sg_spaic meet-up
 ## DAY 7: 19/01/2020
 1. Continued my research about edge, deployment and raspberrypi 
 2. Attended #sg_speech_vino first meet-up
+
+## DAY 8: 201/01/2020
+Reviewing my Python programming skills
