@@ -41,3 +41,8 @@ Attended #women_who_code  and #sg_spaic meet-up
 
 ## DAY 8: 201/01/2020
 Reviewing my Python programming skills
+
+## DAY 9: 21/01/2020
+Continued with my course. Covered a lot today 
+
+Think out loud: Can we say "INTEL" is an abbreviation for "INTELLIGENCE"? 
