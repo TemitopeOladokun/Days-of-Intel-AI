@@ -46,3 +46,9 @@ Reviewing my Python programming skills
 Continued with my course. Covered a lot today 
 
 Think out loud: Can we say "INTEL" is an abbreviation for "INTELLIGENCE"? 
+
+## DAY 10: 22/02/2020
+1. Types of Computer Vision
+2. How to deploy an edge app
+3. Working with pre-trained data
+4. Wrapped  up Lesson 2 and started Leesson 3
