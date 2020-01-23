@@ -39,7 +39,7 @@ Attended #women_who_code  and #sg_spaic meet-up
 1. Continued my research about edge, deployment and raspberrypi 
 2. Attended #sg_speech_vino first meet-up
 
-## DAY 8: 201/01/2020
+## DAY 8: 20/01/2020
 Reviewing my Python programming skills
 
 ## DAY 9: 21/01/2020
@@ -52,3 +52,6 @@ Think out loud: Can we say "INTEL" is an abbreviation for "INTELLIGENCE"?
 2. How to deploy an edge app
 3. Working with pre-trained data
 4. Wrapped  up Lesson 2 and started Leesson 3
+
+## DAY 11: 23/01/2020
+Continued watching the course 
