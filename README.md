@@ -54,4 +54,4 @@ Think out loud: Can we say "INTEL" is an abbreviation for "INTELLIGENCE"?
 4. Wrapped  up Lesson 2 and started Leesson 3
 
 ## DAY 11: 23/01/2020
-Continued watching the course 
+Continued watching the course - Lesson 3
