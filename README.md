@@ -55,3 +55,9 @@ Think out loud: Can we say "INTEL" is an abbreviation for "INTELLIGENCE"?
 
 ## DAY 11: 23/01/2020
 Continued watching the course - Lesson 3
+
+## DAY 12: 24/01/2020
+https://medium.com/syncedreview/autonomous-learning-library-simplifies-intelligent-agent-creation-c7ec60576a3e
+
+## DAY 13: 25/01/2020
+Doing some research regarding OPEN VINO and also about #sg_speech_vino  project
