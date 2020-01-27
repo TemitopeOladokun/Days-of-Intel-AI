@@ -61,3 +61,9 @@ https://medium.com/syncedreview/autonomous-learning-library-simplifies-intellige
 
 ## DAY 13: 25/01/2020
 Doing some research regarding OPEN VINO and also about #sg_speech_vino  project
+
+## DAY 14: 26/01/2020
+Read some article regarding #sg_speech_vino project
+
+## DAY 15: 27/01/2020
+[Improving my python skills](https://github.com/TemitopeOladokun/My-Python-Notebook)
