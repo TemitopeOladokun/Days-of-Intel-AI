@@ -26,6 +26,7 @@ Lesson 1: Introduction to the Course works
 
 ## DAY 4: 16/01/2020
 Took the pledge 
+Started Lesson 2
 
 
 ## DAY 5: 17/01/2020
