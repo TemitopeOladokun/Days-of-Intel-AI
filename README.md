@@ -72,3 +72,9 @@ Read some article regarding #sg_speech_vino project
 ## DAY 16: 28/01/2020
 I completed Lesson 3. :muscle:
 Onto the next
+
+## DAY 17: 29/01/2020
+Started Lesson 4
+
+## DAY 18: 30/01/2020
+Wrapping up Lesson 4
