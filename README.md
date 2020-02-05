@@ -78,3 +78,12 @@ Started Lesson 4
 
 ## DAY 18: 30/01/2020
 Wrapping up Lesson 4
+
+## Day 19: 31/01/2020
+Wrapping up Lesson 4
+
+## Day 20: 01/02/2020
+Started working on my exercises
+
+## Day 21: 02/02/2020
+Done with Lesson 2 exercises
