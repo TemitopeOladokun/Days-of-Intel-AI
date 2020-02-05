@@ -87,3 +87,13 @@ Started working on my exercises
 
 ## Day 21: 02/02/2020
 Done with Lesson 2 exercises
+Attended #sg_speech_vino meetup
+
+## Day 19: 03/02/2020
+Read about #sg_speech_vino projects
+
+## Day 20: 04/02/2020
+Staring Lesson 3 exercises
+
+## Day 21: 05/02/2020
+watched some videos on OpenVINO
