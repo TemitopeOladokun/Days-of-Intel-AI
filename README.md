@@ -97,3 +97,6 @@ Staring Lesson 3 exercises
 
 ## Day 21: 05/02/2020
 watched some videos on OpenVINO
+
+Day 22: 06/02/2020
+Read some papers on Kaldi
