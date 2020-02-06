@@ -89,14 +89,14 @@ Started working on my exercises
 Done with Lesson 2 exercises
 Attended #sg_speech_vino meetup
 
-## Day 19: 03/02/2020
+## DAY 22: 03/02/2020
 Read about #sg_speech_vino projects
 
-## Day 20: 04/02/2020
+## DAY 23: 04/02/2020
 Staring Lesson 3 exercises
 
-## Day 21: 05/02/2020
+## DAY 24: 05/02/2020
 watched some videos on OpenVINO
 
-Day 22: 06/02/2020
+## DAY 22: 06/02/2020
 Read some papers on Kaldi
