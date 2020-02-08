@@ -100,3 +100,8 @@ watched some videos on OpenVINO
 
 ## DAY 22: 06/02/2020
 Read some papers on Kaldi
+
+## DAY 23: 07/02/2020
+Gradually solving my exercises
+
+
