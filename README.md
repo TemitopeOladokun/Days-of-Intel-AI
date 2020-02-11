@@ -106,3 +106,7 @@ Gradually solving my exercises
 
 ## DAY 24: 09/02/2020
 Read and watched some videos on OPENVINO
+
+## DAY 25: 11/02/2020
+1. Started/wrapping up Lesson 5.
+2. Read some papers on OPEN Toolkits
