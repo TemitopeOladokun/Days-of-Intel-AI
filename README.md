@@ -110,3 +110,9 @@ Read and watched some videos on OPENVINO
 ## DAY 25: 11/02/2020
 1. Started/wrapping up Lesson 5.
 2. Read some papers on OPEN Toolkits
+
+
+## Day 26: 19/02/2020
+1. Read a book on sensors 
+2. Classification of sensors
+3. Convolutional Neural Networks
