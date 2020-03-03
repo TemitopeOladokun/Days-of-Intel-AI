@@ -117,5 +117,5 @@ Read and watched some videos on OPENVINO
 2. Classification of sensors
 3. Convolutional Neural Networks
 
-
-https://github.com/david-drew/OpenVINO-Custom-Layers
+## Day 27: 04/03/2020
+OpenVINO custom Layers https://github.com/david-drew/OpenVINO-Custom-Layers
