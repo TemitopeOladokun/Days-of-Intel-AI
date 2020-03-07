@@ -121,4 +121,5 @@ Read and watched some videos on OPENVINO
 OpenVINO custom Layers https://github.com/david-drew/OpenVINO-Custom-Layers
 
 ## Day 28: 07/03/2020
-OpenVINO can help reduce model size and speed up inference, while its use at the edge can help reduce impacts on your network vs. streaming the same input data to cloud services.
+1. OpenVINO can help reduce model size and speed up inference, while its use at the edge can help reduce impacts on your network vs. streaming the same input data to cloud services.
+2. Download the toolkit - https://software.intel.com/en-us/openvino-toolkit/choose-download?
