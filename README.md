@@ -133,3 +133,6 @@ OpenVINO custom Layers https://github.com/david-drew/OpenVINO-Custom-Layers
 
 ## Day 31: 13/03/2020
 https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81
+
+## day 32: 14/03/2020
+https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models
