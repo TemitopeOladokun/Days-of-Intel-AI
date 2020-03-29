@@ -130,3 +130,6 @@ OpenVINO custom Layers https://github.com/david-drew/OpenVINO-Custom-Layers
 ## Day 30: 12/03/2020
 1. Downloaded my certificate.
 2. Watched some videos on OpenVINO
+
+## Day 31: 13/03/2020
+https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81
