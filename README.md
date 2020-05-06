@@ -138,3 +138,9 @@ https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-
 https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models
 
 ## Day 33: 05/05/2020
+1. 5 stages in the development of Edge AI systems.
+* Analyze
+* Design
+* Develop
+* Test
+* Deploy
